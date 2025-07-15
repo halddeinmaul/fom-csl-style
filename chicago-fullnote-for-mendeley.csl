@@ -1,0 +1,24 @@
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
+  <info>
+    <title>Chicago 17th full note – FOM-kompatibel (deutsch)</title>
+    <id>http://www.zotero.org/styles/chicago-fullnote-bibliography-fom-de</id>
+    <link href="http://www.zotero.org/styles/chicago-fullnote-bibliography-fom-de" rel="self"/>
+    <author>
+      <name>OpenAI angepasst</name>
+    </author>
+    <category citation-format="note"/>
+    <summary>FOM-konformer deutscher Stil basierend auf Chicago 17 full note</summary>
+    <updated>2025-07-15T12:00:00+00:00</updated>
+    <language>de-DE</language>
+  </info>
+  <locale xml:lang="de">
+    <terms>
+      <term name="page">S.</term>
+      <term name="editor" form="short">Hrsg.</term>
+      <term name="edition">Aufl.</term>
+      <term name="et-al">et al.</term>
+      <term name="retrieved">Zugriff am</term>
+    </terms>
+  </locale>
+  <import href="https://www.zotero.org/styles/chicago-fullnote-bibliography"/>
+</style>
